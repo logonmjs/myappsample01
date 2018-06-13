@@ -1,3 +1,3 @@
 //main application
 
-console.log("hello");
+console.log("hello!");
